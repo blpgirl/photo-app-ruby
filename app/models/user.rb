@@ -7,4 +7,5 @@ class User < ApplicationRecord
   has_one :payment
   # when sign up i will create user and payment table so i need the payment attributes too
   accepts_nested_attributes_for :payment
+  has_many :images
 end
