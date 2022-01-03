@@ -23,6 +23,7 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
+gem 'stripe'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
